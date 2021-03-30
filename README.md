@@ -4,6 +4,7 @@
 
 
 Skills: 
+
 💻 Python / SQL / Linux 
 
 📚 I’m currently working on new freelancing projects  
