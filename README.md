@@ -1,4 +1,4 @@
-![](https://github.com/mariipy/mariipy/blob/main/Aren't%20you%20glad_.png)
+![](https://github.com/mariipy/mariipy/blob/main/Aren't%20you%20glad_.png) <img src="https://github.com/mariipy/mariipy/blob/main/Aren't%20you%20glad_.png)" width="40%">
 
 
 Skills: 
