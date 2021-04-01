@@ -1,4 +1,4 @@
-![](https://github.com/mariipy/mariipy/blob/main/github.png) 
+![](https://github.com/mariipy/mariipy/blob/main/banner.png) 
 
 
 Skills: 
