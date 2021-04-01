@@ -1,6 +1,4 @@
-# ### Hi there 👋, my name is Maria 
-#### I am Cyber Security Student 
-![I am Cyber Security Student ](https://github.com/mariipy/mariipy/blob/main/Aren't%20you%20glad_.png)
+(https://github.com/mariipy/mariipy/blob/main/Aren't%20you%20glad_.png)
 
 
 Skills: 
