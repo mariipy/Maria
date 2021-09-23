@@ -3,7 +3,7 @@
 
 Skills: 
 
-💻 Python / SQL / Linux 
+💻 Python / SQL / Linux / Ethical Hacking / HTML / CSS / COMPTIA A+
 
 📚 I’m currently working on CSS/HTML projects
 
