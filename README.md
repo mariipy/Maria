@@ -1,11 +1,11 @@
 ![](https://github.com/mariipy/mariipy/blob/main/banner.png) 
 
 
-Skills: 
+Experience with  
 
-💻 Python / SQL / Linux / Ethical Hacking / HTML / CSS / COMPTIA A+
+💻 Python / SQL / Linux / Ethical Hacking / CISCO NETWORKING / HTML / CSS / COMPTIA A+
 
-📚 I’m currently working as a Junior Web Developer 
+📚 Edinburgh University / College / CISCO / CodeAcademy
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mariipy)  
